@@ -1,0 +1,28 @@
+Apr 02, 2023 9:48:44 PM fleet.Main main
+INFO: Vozilo uspješno dodano
+Apr 02, 2023 9:49:35 PM fleet.Main main
+WARNING: Vozilo nije unesešno, greška pri unosu.
+Apr 02, 2023 9:50:25 PM fleet.Main main
+INFO: Vozilo uspješno dodano
+Apr 02, 2023 9:50:55 PM fleet.Main main
+INFO: Vozilo uspješno dodano
+Apr 02, 2023 9:51:36 PM fleet.Main main
+WARNING: Vozilo nije unešeno, greška pri unosu.
+Apr 02, 2023 9:52:09 PM fleet.Main main
+INFO: Vozilo uspješno dodano.
+Apr 02, 2023 9:52:14 PM fleet.Main main
+INFO: Ispis popisa automobila obavljen.
+Apr 02, 2023 9:52:34 PM fleet.Main main
+INFO: Izvršeno pretraživanje po proizvođaču.
+Apr 02, 2023 9:52:47 PM fleet.Main main
+INFO: Izvršeno pretraživanje po proizvođaču.
+Apr 02, 2023 9:53:05 PM fleet.Main main
+INFO: Izvršeno pretraživanje po modelu.
+Apr 02, 2023 9:53:18 PM fleet.Main main
+INFO: Izvršeno pretraživanje po modelu.
+Apr 02, 2023 9:53:30 PM fleet.Main main
+WARNING: Vozilo nije uklonjeno, upisan nepostojeći VIN.
+Apr 02, 2023 9:53:49 PM fleet.Main main
+INFO: Uspješno uklonjeno vozilo.
+Apr 02, 2023 9:54:02 PM fleet.Main main
+INFO: Ispis popisa automobila obavljen.
